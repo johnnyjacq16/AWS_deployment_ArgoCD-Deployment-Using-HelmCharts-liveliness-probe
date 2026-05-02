@@ -1,4 +1,4 @@
-replicaCount: 2
+replicaCount: 3
 
 image:
   repository: 522836376191.dkr.ecr.eu-north-1.amazonaws.com/ecr-python-api
